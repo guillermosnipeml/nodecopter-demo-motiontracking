@@ -20,3 +20,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+IMPORTANT NOTICE: gest.js and socket.io have licenses and are copyrighted software. All the rights over that
+software belongs to their authors, and were included in this repo just to make the code work.
+I have not modified socket.io nor gest.js in any way. Thanks Hadi and rauschma for your excellent work!
